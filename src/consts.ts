@@ -9,9 +9,9 @@ export const FAVICON_SRC = '/favicon.svg';
 
 export const AVATAR_SRC = '/avatar.avif';
 
-export const BIO = "This is a demo blog for vito!";
+export const BIO = "This is a demo blog of vito!";
 
 export const GLOBAL_STYLE: 'quartz' | 'glass' | 'lightGlass' = 'glass'
 
-export const COPYRIGHT_NAME = 'vito Design';
+export const COPYRIGHT_NAME = 'Vito Design';
 
