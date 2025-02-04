@@ -1,8 +1,8 @@
 ---
 title: '跨越鸿沟'
 description: '阅读跨越鸿沟的收获和感悟'
-pubDate: 'February 3 2025'
-heroImage: 'https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/fc027225-c8ad-4d9b-6fb7-bb10eb990b00/small'
+pubDate: 'February 1 2025'
+heroImage: '/Crossing_the_Chasm.avif'
 pinned: true
 ---
 
@@ -41,6 +41,8 @@ pinned: true
 特点：滞后者是最后一批接受技术的用户，他们通常对新技术极为排斥，习惯于传统的解决方案。
 
 行为：这些人对技术的改变持极度抗拒的态度，通常只有在社会上迫使他们改变时才会做出决策。
+
+![用户鸿沟](/user_cross.avif)
 
   ## 案例分析
 
