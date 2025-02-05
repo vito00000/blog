@@ -7,7 +7,7 @@ export const SITE_DESCRIPTION = 'A blog about programming, technology, and other
 
 export const FAVICON_SRC = '/favicon.svg';
 
-export const AVATAR_SRC = '/yokino.avif';
+export const AVATAR_SRC = '/jojo.avif';
 
 export const BIO = "This is a demo blog of Vito!";
 
