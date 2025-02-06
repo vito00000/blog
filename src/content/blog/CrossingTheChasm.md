@@ -3,7 +3,7 @@ title: '跨越鸿沟'
 description: '阅读跨越鸿沟的收获和感悟'
 pubDate: 'February 1 2025'
 heroImage: 'https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/a595f6ec-a66f-4de3-3141-a2998e83b500/small'
-pinned: true
+pinned: false
 ---
 
 > 高科技营销幻象
